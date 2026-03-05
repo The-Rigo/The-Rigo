@@ -1,5 +1,10 @@
 <h2 align="center">Hi 👋! My name is Rodrigo and I'm a Full Stack Developer</h2>
 
+# 💫 About Me:
+- I'm looking for new challenges
+- I'm working on my own projects
+- I'm still learning about software development and love it
+- Love to learn and explore new things<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-rigo94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodri.ledezma9483@gmail.com) 
